@@ -7,5 +7,6 @@ public class Myapplication {
         System.out.println("321");
         System.out.println("321");
         System.out.println("321");
+        System.out.println("321z");
     }
 }
